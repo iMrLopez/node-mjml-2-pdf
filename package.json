@@ -1,0 +1,17 @@
+{
+  "name": "mjml-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "html-pdf-node": "1.0.7",
+    "mjml": "4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
